@@ -1,2 +1,2 @@
 # docs
-My certificate and other documents
+My certificates and other documents
